@@ -1,3 +1,5 @@
+![full stack hero](https://github.com/goutamprajapat/goutamprajapat/assets/84739048/5b62a93e-fc0c-404d-9388-39c83ea5213a)
+
 - 👋 Hi, I’m @goutamprajapat
 - 👀 I’m interested in Programming like a Full Stack Developer 
 - 🌱 I’m currently learning React (MERN)
