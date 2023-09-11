@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--![20210506_154204](https://user-images.githubusercontent.com/84739048/179404367-d238bf4c-6b31-4549-8868-638ba4776443.png)-->
-<h1 style="font-size:2rem;">Full Stack Hero</h1>
+<h1 style="font-size:8rem;">Full Stack Hero</h1>
