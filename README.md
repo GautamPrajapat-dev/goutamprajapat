@@ -11,7 +11,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![20230522_155507](https://github.com/goutamprajapat/goutamprajapat/assets/84739048/c359d44e-2a57-489e-8346-d811c905799b)
+
 
 ###
 
