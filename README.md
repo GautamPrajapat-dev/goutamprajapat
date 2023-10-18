@@ -76,6 +76,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/goutamprajapat/goutamprajapat/output/snake.svg" alt="Snake animation" />
+<!--<img src="https://raw.githubusercontent.com/goutamprajapat/goutamprajapat/output/snake.svg" alt="Snake animation" />-->
 
 ###
