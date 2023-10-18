@@ -11,7 +11,7 @@
 
 ###
 
-<img src="https://github.com/goutamprajapat/goutamprajapat/assets/84739048/c359d44e-2a57-489e-8346-d811c905799b" height="149" alt="full stack logo" align="right">
+<img align="right" src="https://github.com/goutamprajapat/goutamprajapat/assets/84739048/c359d44e-2a57-489e-8346-d811c905799b" height="149" alt="full stack logo" />
 <!--![20230522_155507](https://github.com/goutamprajapat/goutamprajapat/assets/84739048/c359d44e-2a57-489e-8346-d811c905799b)-->
 
 
