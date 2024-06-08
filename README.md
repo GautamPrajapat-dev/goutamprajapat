@@ -1,5 +1,4 @@
-![full stack hero](https://github.com/goutamprajapat/goutamprajapat/assets/84739048/5b62a93e-fc0c-404d-9388-39c83ea5213a)
-
+<h1 align='center'>MongoMastery</h1>
 <h2 align="left">Hi 👋! My name is Gautam Prajapat and I'm a MERN Stack Developer,</h2>
 
 ###
