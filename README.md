@@ -1,5 +1,5 @@
 <h1 align='center'>MongoMastery</h1>
-<h2 align="left">Hi 👋! My name is Gautam Prajapat and I'm a MERN Stack Developer,</h2>
+<h2 align="left">full-stack developer offering custom, responsive designs. Specializing in front & back-end dev, I create SEO-optimized websites & apps. Let's build your ideal online presence.</h2>
 
 ###
 
