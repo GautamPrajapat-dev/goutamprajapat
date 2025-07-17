@@ -1,21 +1,6 @@
 <h1 align='center'>MongoMastery</h1>
 <h2 align="left">full-stack developer offering custom, responsive designs. Specializing in front & back-end dev, I create SEO-optimized websites & apps. Let's build your ideal online presence.</h2>
 
-###
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GautamPrajapat-dev&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
- <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=GautamPrajapat-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Working%20On"
-    height="149"
-    alt="languages graph"
-  />
-</div>
-
-###
-
-<img align="right" src="https://github.com/GautamPrajapat-dev/goutamprajapat/assets/84739048/c359d44e-2a57-489e-8346-d811c905799b" height="149" alt="full stack logo" />
-<!--![20230522_155507](https://github.com/goutamprajapat/goutamprajapat/assets/84739048/c359d44e-2a57-489e-8346-d811c905799b)-->
 
 
 ###
@@ -74,11 +59,3 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
  </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/goutamprajapat/goutamprajapat/output/snake.svg" alt="Snake animation" />
-
-###
